@@ -1,0 +1,25 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "value",
+      "check": "Boolean"
+    },
+    {
+      "type": "input_value",
+      "name": "var",
+      "check": "List<Boolean>"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "arraylist",
+    "inputs": [
+      "value",
+      "var"
+    ]
+  }
+}

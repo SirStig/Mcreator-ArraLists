@@ -1,0 +1,11 @@
+{
+  "id": "arraylistsminecraft",
+  "minversion": 20223007462,
+  "info": {
+    "name": "ArrayList(Minecraft)",
+    "version": "1.0",
+    "description": "Allows you to use the ArrList() function of java in MCreator using easy to use blockly function blocks.",
+    "author": "SirJStig",
+    "pluginPageID": 65659
+  }
+}

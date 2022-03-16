@@ -1,0 +1,25 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "value",
+      "check": [ "MCItemBlock", "MCItem" ]
+    },
+    {
+      "type": "input_value",
+      "name": "var",
+      "check": "List<Block>"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 60,
+  "mcreator": {
+    "toolbox_id": "arraylist",
+    "inputs": [
+      "value",
+      "var"
+    ]
+  }
+}

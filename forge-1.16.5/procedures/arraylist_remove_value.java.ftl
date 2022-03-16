@@ -1,0 +1,1 @@
+${input$var}.remove((int) ${input$index});

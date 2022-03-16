@@ -1,0 +1,1 @@
+${input$var} = new ArrayList<${field$value}>();

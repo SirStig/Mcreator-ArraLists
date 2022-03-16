@@ -1,0 +1,1 @@
+${input$var}.add((double) ${input$value});
